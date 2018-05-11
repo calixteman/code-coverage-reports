@@ -1,0 +1,1 @@
+["jinit_2pass_quantizer", "select_colors", "compute_color", "fill_inverse_cmap", "finish_pass2", "find_biggest_volume", "pass2_fs_dither", "update_box", "init_error_limit", "find_biggest_color_pop", "prescan_quantize", "start_pass_2_quant", "new_color_map_2_quant", "median_cut", "pass2_no_dither", "find_best_colors", "find_nearby_colors", "finish_pass1"]

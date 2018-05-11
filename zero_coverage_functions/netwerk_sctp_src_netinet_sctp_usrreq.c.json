@@ -1,0 +1,1 @@
+["sctp_sendm", "sctp_shutdown", "sctp_flush", "sctp_listen", "sctp_accept", "sctp_disconnect", "sctp_do_connect_x"]

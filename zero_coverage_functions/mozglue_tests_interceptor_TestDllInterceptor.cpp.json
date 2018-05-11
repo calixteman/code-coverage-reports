@@ -1,0 +1,1 @@
+["?TestNtFlushBuffersFile@@YA_NPEAX@Z", "?TestCreateDIBSection@@YA_NPEAX@Z", "?TestSendMessageTimeoutW@@YA_NPEAX@Z", "?TestVirtualAlloc@@YA_NPEAX@Z", "?TestMapViewOfFile@@YA_NPEAX@Z", "?TestInternetErrorDlg@@YA_NPEAX@Z", "?TestSetWindowLong@@YA_NPEAX@Z", "?TestRtlInstallFunctionTableCallback@@YA_NPEAX@Z", "?TestCreateFileW@@YA_NPEAX@Z", "rotatePayload"]

@@ -1,0 +1,1 @@
+["WebRtcIsac_EncodeLb", "WebRtcIsac_EncodeUb12", "WebRtcIsac_RateAllocation", "WebRtcIsac_EncodeStoredDataUb", "WebRtcIsac_EncodeUb16", "WebRtcIsac_ResetBitstream", "WebRtcIsac_GetRedPayloadUb", "LimitPayloadUb", "WebRtcIsac_EncodeStoredDataLb"]

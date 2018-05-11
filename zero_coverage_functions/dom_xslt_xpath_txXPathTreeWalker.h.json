@@ -1,0 +1,1 @@
+["?release@txXPathNodeUtils@@SAXPEAVtxXPathNode@@@Z", "?getNode@txXPathNativeNode@@SA?AW4nsresult@@AEBVtxXPathNode@@PEAPEAVnsIDOMNode@@@Z", "?isOnNode@txXPathTreeWalker@@QEBA_NAEBVtxXPathNode@@@Z", "?moveTo@txXPathTreeWalker@@QEAAXAEBV1@@Z", "?getUniqueIdentifier@txXPathNodeUtils@@SAHAEBVtxXPathNode@@@Z", "?getAttr@txXPathTreeWalker@@QEBA_NPEAVnsAtom@@HAEAV?$nsTSubstring@_S@@@Z"]

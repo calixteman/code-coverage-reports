@@ -1,0 +1,1 @@
+["CMMF_POPODecKeyChallContentGetNumChallenges", "cmmf_get_owf", "CMMF_CreatePOPODecKeyChallContentFromDER", "CMMF_POPODecKeyChallContDecryptChallenge", "CMMF_EncodePOPODecKeyRespContent", "CMMF_POPODecKeyChallContentGetPublicValue", "CMMF_POPODecKeyChallContentGetRandomNumber"]

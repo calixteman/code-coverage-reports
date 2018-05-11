@@ -1,0 +1,1 @@
+["?VarianceSSE2@webrtc@@YAXPEBEH0HHHPEAIPEA_JH@Z", "?CopyMem16x16@DenoiserFilterSSE2@webrtc@@UEAAXPEBEHPEAEH@Z", "?MbDenoise@DenoiserFilterSSE2@webrtc@@UEAA?AW4DenoiserDecision@2@PEBEHPEAEH0HEH@Z", "?Variance16x8@DenoiserFilterSSE2@webrtc@@UEAAIPEBEH0HPEAI@Z", "?AbsSumDiff16x1@webrtc@@YAIT__m128i@@@Z", "?Get8x8varSse2@webrtc@@YAXPEBEH0HPEAIPEAH@Z"]

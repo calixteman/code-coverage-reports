@@ -1,0 +1,1 @@
+["?GetDefaultPort@nsJARProtocolHandler@@UEAA?AW4nsresult@@PEAH@Z", "?NewChannel@nsJARProtocolHandler@@UEAA?AW4nsresult@@PEAVnsIURI@@PEAPEAVnsIChannel@@@Z", "?AllowPort@nsJARProtocolHandler@@UEAA?AW4nsresult@@HPEBDPEA_N@Z", "?GetScheme@nsJARProtocolHandler@@UEAA?AW4nsresult@@AEAV?$nsTSubstring@D@@@Z"]

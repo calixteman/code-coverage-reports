@@ -1,0 +1,1 @@
+["pthread_cond_signal", "pthread_cond_wait", "pthread_mutex_trylock"]

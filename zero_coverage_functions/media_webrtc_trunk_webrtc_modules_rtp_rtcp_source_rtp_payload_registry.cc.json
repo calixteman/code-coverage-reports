@@ -1,0 +1,1 @@
+["?ReceivePayloadType@RTPPayloadRegistry@webrtc@@QEBAHAEBUCodecInst@2@PEAC@Z", "?SetRtxPayloadType@RTPPayloadRegistry@webrtc@@QEAAXHH@Z", "?RestoreOriginalPacket@RTPPayloadRegistry@webrtc@@QEAA_NPEAEPEBEPEA_KIAEBURTPHeader@2@@Z", "?GetRtxSsrc@RTPPayloadRegistry@webrtc@@QEBA_NPEAI@Z", "?SetRtxSsrc@RTPPayloadRegistry@webrtc@@QEAAXI@Z"]

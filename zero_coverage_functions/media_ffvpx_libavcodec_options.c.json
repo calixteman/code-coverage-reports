@@ -1,0 +1,1 @@
+["avcodec_get_subtitle_rect_class", "avcodec_get_frame_class", "codec_child_class_next", "context_to_name", "copy_context_reset", "codec_child_next", "avcodec_get_class", "avcodec_copy_context", "avcodec_get_context_defaults3", "avcodec_free_context", "get_category"]

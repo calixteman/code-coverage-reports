@@ -1,0 +1,1 @@
+["exports.registerStringsSource", "exports.unregisterStringsSource", "exports.lookupSwap", "exports.getPreferredLocales", "exports.lookupPlural"]

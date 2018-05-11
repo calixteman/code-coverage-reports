@@ -1,0 +1,1 @@
+["?Serialize@NotifyPaintEvent@dom@mozilla@@UEAAXPEAVMessage@IPC@@_N@Z", "?Deserialize@NotifyPaintEvent@dom@mozilla@@UEAA_NPEBVMessage@IPC@@PEAVPickleIterator@@@Z", "?PaintTimeStamp@NotifyPaintEvent@dom@mozilla@@QEAANVSystemCallerGuarantee@23@@Z", "?PaintRequests@NotifyPaintEvent@dom@mozilla@@QEAA?AU?$already_AddRefed@VPaintRequestList@dom@mozilla@@@@VSystemCallerGuarantee@23@@Z"]

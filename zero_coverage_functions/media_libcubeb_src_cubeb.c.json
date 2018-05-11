@@ -1,0 +1,1 @@
+["cubeb_register_device_collection_changed", "cubeb_stream_get_current_device", "cubeb_stream_user_ptr", "cubeb_stream_reset_default_device", "cubeb_stream_get_latency", "cubeb_stream_device_destroy", "log_device"]

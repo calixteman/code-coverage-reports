@@ -1,0 +1,1 @@
+["PR_DetachSharedMemory", "PR_CloseSharedMemory", "PR_DeleteSharedMemory", "PR_AttachSharedMemory", "PR_OpenSharedMemory"]

@@ -1,0 +1,1 @@
+["?GetSendDelayCounter@SendDelayStats@webrtc@@AEAAPEAVAvgCounter@2@I@Z", "?OnSentPacket@SendDelayStats@webrtc@@QEAA_NH_J@Z", "?RemoveOld@SendDelayStats@webrtc@@AEAAX_JPEAV?$map@GUPacket@SendDelayStats@webrtc@@USequenceNumberOlderThan@23@V?$allocator@U?$pair@$$CBGUPacket@SendDelayStats@webrtc@@@std@@@std@@@std@@@Z", "?OnSendPacket@SendDelayStats@webrtc@@MEAAXG_JI@Z"]

@@ -1,0 +1,1 @@
+["?allocateAtOrAbove@HandleRangeAllocator@gl@@QEAAII@Z", "?allocate@HandleRangeAllocator@gl@@QEAAIXZ", "?release@HandleRangeAllocator@gl@@QEAAXI@Z", "?allocateRange@HandleRangeAllocator@gl@@QEAAII@Z", "?releaseRange@HandleRangeAllocator@gl@@QEAAXII@Z", "?markAsUsed@HandleRangeAllocator@gl@@QEAA_NI@Z", "?isUsed@HandleRangeAllocator@gl@@QEBA_NI@Z"]

@@ -1,0 +1,1 @@
+["?_try_writable@@YA_NPEAUhb_blob_t@@@Z", "hb_blob_is_immutable", "hb_blob_get_user_data", "hb_blob_copy_writable_or_fail", "?_hb_blob_destroy@@YAXPEAX@Z", "hb_blob_set_user_data", "hb_blob_create_sub_blob", "?_try_writable_inplace@@YA_NPEAUhb_blob_t@@@Z", "?_try_make_writable_inplace_unix@@YAHPEAUhb_blob_t@@@Z", "hb_blob_get_data_writable"]

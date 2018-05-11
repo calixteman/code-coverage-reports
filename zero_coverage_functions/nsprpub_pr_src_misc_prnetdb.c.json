@@ -1,0 +1,1 @@
+["PR_EnumerateHostEnt", "MakeIPv4MappedAddr", "PR_GetHostByName", "CopyProtoent", "MakeIPv4CompatAddr", "_PR_NetAddrSize", "V6AddrToString", "Alloc", "PR_GetProtoByNumber", "PR_ntohll", "getprotobyname_r", "pr_GetAddrInfoByNameFB", "getprotobynumber_r", "PR_GetProtoByName", "PR_GetHostByAddr", "pr_NetAddrToStringFB", "CopyHostent", "PR_GetIPNodeByName"]

@@ -1,0 +1,1 @@
+["?UlpfecHeaderSize@?A@webrtc@@YA_K_K@Z", "?FecHeaderSize@UlpfecHeaderWriter@webrtc@@UEBA_K_K@Z", "?ReadFecHeader@UlpfecHeaderReader@webrtc@@UEBA_NPEAVReceivedFecPacket@ForwardErrorCorrection@2@@Z", "?FinalizeFecHeader@UlpfecHeaderWriter@webrtc@@UEBAXIGPEBE_KPEAVPacket@ForwardErrorCorrection@2@@Z", "?MinPacketMaskSize@UlpfecHeaderWriter@webrtc@@UEBA_KPEBE_K@Z"]

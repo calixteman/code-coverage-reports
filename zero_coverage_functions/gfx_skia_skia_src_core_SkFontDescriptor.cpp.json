@@ -1,0 +1,1 @@
+["?write_string@@YAXPEAVSkWStream@@AEBVSkString@@I@Z", "?read_uint@@YA_KPEAVSkStream@@@Z", "??0SkFontDescriptor@@QEAA@XZ", "?Deserialize@SkFontDescriptor@@SA_NPEAVSkStream@@PEAV1@@Z", "?read_string@@YAXPEAVSkStream@@PEAVSkString@@@Z", "?serialize@SkFontDescriptor@@QEAAXPEAVSkWStream@@@Z", "?write_uint@@YAXPEAVSkWStream@@_KI@Z"]

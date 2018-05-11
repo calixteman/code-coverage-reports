@@ -1,0 +1,1 @@
+["deflateGetDictionary", "deflate_huff", "MOZ_Z_deflateSetHeader", "MOZ_Z_deflateSetDictionary", "MOZ_Z_deflateParams", "MOZ_Z_deflateCopy", "deflate_rle", "MOZ_Z_deflatePrime", "MOZ_Z_deflate_stored", "MOZ_Z_deflateBound", "MOZ_Z_deflatePending", "MOZ_Z_deflateTune"]

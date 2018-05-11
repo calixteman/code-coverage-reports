@@ -1,0 +1,1 @@
+["jar_listtar", "jar_guess_jar", "jar_get_physical", "JAR_pass_archive_unverified", "dostime", "dosdate", "JAR_extract", "jar_physical_extraction", "jar_listzip", "jar_inflate_memory", "JAR_pass_archive", "jar_gen_index", "jar_extract_mf", "jar_physical_inflate", "JAR_verified_extract", "jar_extract_manifests", "jar_verify_extract", "octalToLong"]

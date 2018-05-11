@@ -1,0 +1,1 @@
+["CERT_DestroyCERTRevocationFlags", "CERT_GetClassicOCSPEnabledHardFailurePolicy", "cert_VerifyCertChainPkix", "CERT_AllocCERTRevocationFlags", "CERT_GetUsePKIXForValidation", "CERT_SetUsePKIXForValidation", "CERT_GetPKIXVerifyNistRevocationPolicy", "CERT_GetClassicOCSPDisabledPolicy", "CERT_PKIXVerifyCert", "CERT_GetClassicOCSPEnabledSoftFailurePolicy"]

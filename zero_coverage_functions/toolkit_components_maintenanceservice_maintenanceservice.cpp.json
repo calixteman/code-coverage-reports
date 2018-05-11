@@ -1,0 +1,1 @@
+["?EnsureProcessTerminatedThread@@YAKPEAX@Z", "?GetBackupLogPath@@YAHPEA_WPEB_WH@Z", "?GetLogDirectoryPath@@YAHPEA_W@Z", "?ReportSvcStatus@@YAXKKK@Z", "?SvcCtrlHandler@@YAXK@Z", "?BackupOldLogs@@YAXPEB_WH@Z", "?StartTerminationThread@@YAXXZ", "?StopServiceAndWaitForCommandThread@@YAKPEAX@Z", "?SvcMain@@YAXKPEAPEA_W@Z"]

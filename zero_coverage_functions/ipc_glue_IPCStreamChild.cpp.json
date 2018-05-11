@@ -1,0 +1,1 @@
+["?RequestClose@IPCStreamDestinationChild@?A@ipc@mozilla@@EEAAXW4nsresult@@@Z", "?RecvRequestClose@IPCStreamSourceChild@?A@ipc@mozilla@@UEAA?AVIPCResult@23@AEBW4nsresult@@@Z", "?StartReading@IPCStreamDestinationChild@?A@ipc@mozilla@@EEAAXXZ", "?DeallocPParentToChildStreamChild@ipc@mozilla@@YAXPEAVPParentToChildStreamChild@12@@Z"]

@@ -1,0 +1,1 @@
+["vec_store_le", "vec_load128_le", "vec_rotate_left", "vec_rotate_left_16", "vec_rotate_left_8", "vec_xor", "vec_load_le", "vec_add", "vec_increment", "vec_load_32x4"]

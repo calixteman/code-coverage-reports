@@ -1,0 +1,1 @@
+["?SetScreenId@nsAppStartup@@UEAA?AW4nsresult@@I@Z", "?CreateInstanceWithProfile@nsAppStartup@@UEAA?AW4nsresult@@PEAVnsIToolkitProfile@@@Z", "?CreateChromeWindow@nsAppStartup@@UEAA?AW4nsresult@@PEAVnsIWebBrowserChrome@@IPEAPEAV3@@Z", "?RestartInSafeMode@nsAppStartup@@UEAA?AW4nsresult@@I@Z"]

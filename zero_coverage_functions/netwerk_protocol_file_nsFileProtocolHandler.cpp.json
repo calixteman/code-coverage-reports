@@ -1,0 +1,1 @@
+["?NewChannel@nsFileProtocolHandler@@UEAA?AW4nsresult@@PEAVnsIURI@@PEAPEAVnsIChannel@@@Z", "?GetURLSpecFromDir@nsFileProtocolHandler@@UEAA?AW4nsresult@@PEAVnsIFile@@AEAV?$nsTSubstring@D@@@Z", "?GetScheme@nsFileProtocolHandler@@UEAA?AW4nsresult@@AEAV?$nsTSubstring@D@@@Z", "?AllowPort@nsFileProtocolHandler@@UEAA?AW4nsresult@@HPEBDPEA_N@Z"]

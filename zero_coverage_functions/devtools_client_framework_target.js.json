@@ -1,0 +1,1 @@
+["get window", "get isMultiProcess", "getExtensionPathName", "forWorker", "WorkerTarget", "get activeTab", "isKnownTab", "get isWorkerTarget", "get activeConsole"]

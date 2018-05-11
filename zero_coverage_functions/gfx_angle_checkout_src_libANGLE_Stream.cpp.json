@@ -1,0 +1,1 @@
+["?getConsumerLatency@Stream@egl@@QEBAHXZ", "?releaseTextures@Stream@egl@@AEAAXXZ", "?setConsumerLatency@Stream@egl@@QEAAXH@Z", "?getConsumerAcquireTimeout@Stream@egl@@QEBAHXZ", "?setConsumerAcquireTimeout@Stream@egl@@QEAAXH@Z", "?getConsumerFrame@Stream@egl@@QEBA_KXZ", "?getProducerFrame@Stream@egl@@QEBA_KXZ"]

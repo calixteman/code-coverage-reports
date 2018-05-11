@@ -1,0 +1,1 @@
+["avpriv_copy_bits", "avpriv_align_put_bits", "ff_init_vlc_sparse", "ff_free_vlc", "compare_vlcspec", "build_table", "avpriv_put_string", "alloc_table"]

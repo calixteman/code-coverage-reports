@@ -1,0 +1,1 @@
+["vp8_set_active_map", "vp8_set_internal_size", "update_alt_ref_frame_stats", "vp8_set_reference", "set_segmentation_map", "vp8_set_roimap", "vp8_get_reference", "generate_psnr_packet", "decide_key_frame", "reset_temporal_layer_change", "Pass1Encode", "vp8_get_preview_raw_frame", "calc_plane_error", "measure_square_diff_partial", "Pass2Encode"]

@@ -1,0 +1,1 @@
+["PR_CWait", "CreateMonitor", "PR_CExitMonitor", "PR_CNotify", "PR_CSetOnMonitorRecycle", "PR_CNotifyAll", "LookupMonitorCacheEntry", "PR_CEnterMonitor"]

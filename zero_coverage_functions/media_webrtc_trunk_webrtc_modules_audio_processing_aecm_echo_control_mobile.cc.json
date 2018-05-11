@@ -1,0 +1,1 @@
+["WebRtcAecm_Create", "?WebRtcAecm_DelayComp@@YAHPEAUAecMobile@@@Z", "WebRtcAecm_Process", "WebRtcAecm_set_config", "WebRtcAecm_InitEchoPath", "WebRtcAecm_Init", "WebRtcAecm_Free", "WebRtcAecm_GetBufferFarendError", "WebRtcAecm_BufferFarend", "WebRtcAecm_GetEchoPath", "?WebRtcAecm_EstBufDelay@@YAHPEAUAecMobile@@F@Z", "WebRtcAecm_echo_path_size_bytes"]

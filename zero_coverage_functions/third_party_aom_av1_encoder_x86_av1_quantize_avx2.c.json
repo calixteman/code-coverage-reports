@@ -1,0 +1,1 @@
+["read_coeff", "init_qp", "update_qp", "av1_quantize_fp_avx2", "init_one_qp", "write_zero", "quantize", "quantize_32x32", "av1_quantize_fp_32x32_avx2"]

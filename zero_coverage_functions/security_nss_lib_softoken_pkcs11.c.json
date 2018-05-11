@@ -1,0 +1,1 @@
+["NSC_GetObjectSize", "sftk_handleDSAParameterObject", "sftk_handleDataObject", "sftk_CreateNewSlot", "sftk_handleKeyParameterObject", "C_GetFunctionList", "sftk_isBlank", "NSC_WaitForSlotEvent", "sftk_handleSMimeObject", "sftk_closePeer", "sftk_handleCrlObject", "sftk_CheckDESKey"]

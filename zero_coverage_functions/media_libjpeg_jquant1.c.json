@@ -1,0 +1,1 @@
+["make_odither_array", "start_pass_1_quant", "jinit_1pass_quantizer", "output_value", "color_quantize3", "alloc_fs_workspace", "largest_input_value", "finish_pass_1_quant", "create_odither_tables", "select_ncolors", "quantize_ord_dither", "create_colormap", "create_colorindex", "quantize3_ord_dither", "color_quantize", "quantize_fs_dither", "new_color_map_1_quant"]

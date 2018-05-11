@@ -1,0 +1,1 @@
+["?WindowAndFFT@@YAXPEAUAecmCore@@PEAFPEBFPEAUComplexInt16@@H@Z", "?WebRtcAecm_ProcessBlock@@YAHPEAUAecmCore@@PEBF11PEAF@Z", "?TimeToFrequencyDomain@@YAHPEAUAecmCore@@PEBFPEAUComplexInt16@@PEAGPEAI@Z", "?ComfortNoise@@YAXPEAUAecmCore@@PEBGPEAUComplexInt16@@PEBF@Z", "?InverseFFTAndWindow@@YAXPEAUAecmCore@@PEAFPEAUComplexInt16@@1PEBF@Z"]

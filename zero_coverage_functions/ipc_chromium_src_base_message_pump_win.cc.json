@@ -1,0 +1,1 @@
+["?RemoveObserver@MessagePumpWin@base@@QEAAXPEAVObserver@12@@Z", "?AddObserver@MessagePumpWin@base@@QEAAXPEAVObserver@12@@Z", "?PumpOutPendingPaintMessages@MessagePumpForUI@base@@QEAAXXZ", "?HandleWorkMessage@MessagePumpForUI@base@@IEAAXXZ", "?ScheduleDelayedWork@MessagePumpForIO@base@@UEAAXAEBVTimeTicks@2@@Z"]

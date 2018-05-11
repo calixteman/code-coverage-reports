@@ -1,0 +1,1 @@
+["?checkSimulatedOOM@InfallibleAllocPolicy@@QEBA_NXZ", "?reportAllocOverflow@InfallibleAllocPolicy@@QEBAXXZ", "main", "??$pod_malloc@USegment@?$BufferList@VInfallibleAllocPolicy@@@mozilla@@@InfallibleAllocPolicy@@QEAAPEAUSegment@?$BufferList@VInfallibleAllocPolicy@@@mozilla@@_K@Z", "?free_@InfallibleAllocPolicy@@QEAAXPEAX@Z", "??$pod_malloc@D@InfallibleAllocPolicy@@QEAAPEAD_K@Z"]

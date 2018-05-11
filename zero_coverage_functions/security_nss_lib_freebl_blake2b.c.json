@@ -1,0 +1,1 @@
+["BLAKE2B_HashBuf", "blake2b_HashBuf", "BLAKE2B_Begin", "BLAKE2B_Clone", "blake2b_IncrementCompress", "blake2b_Compress", "BLAKE2B_Hash", "BLAKE2B_FlattenSize", "blake2b_IncrementCounter", "BLAKE2B_Resurrect", "BLAKE2B_NewContext", "BLAKE2B_MAC_Begin", "BLAKE2B_End", "BLAKE2B_MAC_HashBuf", "BLAKE2B_DestroyContext", "BLAKE2B_Update", "BLAKE2B_Flatten", "blake2b_Begin"]

@@ -1,0 +1,1 @@
+["?RunInTransaction@CookieServiceChild@net@mozilla@@UEAA?AW4nsresult@@PEAVnsICookieTransactionCallback@@@Z", "?GetCookieStringSyncIPC@CookieServiceChild@net@mozilla@@IEAAXPEAVnsIURI@@_N11AEBVOriginAttributes@3@AEAV?$nsTAutoStringN@D$0EA@@@@Z", "?GetCookieStringFromHttp@CookieServiceChild@net@mozilla@@UEAA?AW4nsresult@@PEAVnsIURI@@0PEAVnsIChannel@@PEAPEAD@Z"]

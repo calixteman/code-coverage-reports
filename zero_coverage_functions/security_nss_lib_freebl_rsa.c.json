@@ -1,0 +1,1 @@
+["rsa_get_prime_from_exponents", "rsa_PrivateKeyOpNoCRT", "RSA_PopulatePrivateKey", "rsa_factorize_n_from_exponents", "rsa_is_prime"]

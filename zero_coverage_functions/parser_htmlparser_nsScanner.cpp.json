@@ -1,0 +1,1 @@
+["?GetChar@nsScanner@@QEAA?AW4nsresult@@AEA_S@Z", "?CopyUnusedData@nsScanner@@QEAA_NAEAV?$nsTString@_S@@@Z", "?UngetReadable@nsScanner@@QEAA_NAEBV?$nsTSubstring@_S@@@Z", "?BindSubstring@nsScanner@@QEAAXAEAVnsScannerSubstring@@AEBVnsScannerIterator@@1@Z", "??0nsReadEndCondition@@QEAA@PEB_S@Z", "?SelfTest@nsScanner@@SAXXZ"]

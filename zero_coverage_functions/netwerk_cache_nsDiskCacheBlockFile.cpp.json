@@ -1,0 +1,1 @@
+["?DeallocateBlocks@nsDiskCacheBlockFile@@QEAA?AW4nsresult@@HH@Z", "?VerifyAllocation@nsDiskCacheBlockFile@@AEAA?AW4nsresult@@HH@Z", "?WriteBlocks@nsDiskCacheBlockFile@@QEAA?AW4nsresult@@PEAXIHPEAH@Z", "?CalcBlockFileSize@nsDiskCacheBlockFile@@AEAAIXZ", "?AllocateBlocks@nsDiskCacheBlockFile@@AEAAHH@Z", "?ReadBlocks@nsDiskCacheBlockFile@@QEAA?AW4nsresult@@PEAXHHPEAH@Z"]

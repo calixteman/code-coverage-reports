@@ -1,0 +1,1 @@
+["?MarkPrivate@nsCacheRequest@@AEAAXXZ", "?WaitForValidation@nsCacheRequest@@AEAA?AW4nsresult@@XZ", "?WillDoomEntriesIfExpired@nsCacheRequest@@AEAA_NXZ", "?WakeUp@nsCacheRequest@@AEAAXXZ", "?WaitingForValidation@nsCacheRequest@@AEAA_NXZ", "?DoneWaitingForValidation@nsCacheRequest@@AEAAXXZ", "?MarkDoomEntriesIfExpired@nsCacheRequest@@AEAAXXZ"]

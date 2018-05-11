@@ -1,0 +1,1 @@
+["ia32_disasm_size", "ia32_disasm_invariant", "ia32_invariant_modrm", "byte_decode", "ia32_decode_invariant"]

@@ -1,0 +1,1 @@
+["ChromePowers.prototype.toString", "ChromePowers.prototype.sanityCheck", "ChromePowers.prototype.quit", "ChromePowers.prototype.executeAfterFlushingMessageQueue", "ChromePowers.prototype.unregisterProcessCrashObservers", "ChromePowers.prototype._removeMessageListener", "ChromePowers.prototype.registerProcessCrashObservers"]

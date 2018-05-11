@@ -1,0 +1,1 @@
+["legacy_DeleteSecmodDB", "lgdb_FreeSlotStrings", "legacy_ReleaseSecmodDBData", "lgdb_EncodeData", "legacy_AddSecmodDB", "lgdb_FreeKey", "lgdb_CloseDB", "lgdb_FreeData", "lgdb_DecodeData", "lgdb_MakeKey"]

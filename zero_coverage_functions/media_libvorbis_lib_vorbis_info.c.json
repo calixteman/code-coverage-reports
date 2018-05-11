@@ -1,0 +1,1 @@
+["vorbis_comment_add_tag", "_vorbis_pack_info", "vorbis_synthesis_idheader", "vorbis_comment_query", "vorbis_info_blocksize", "vorbis_commentheader_out", "vorbis_analysis_headerout", "vorbis_comment_add", "vorbis_comment_query_count", "_vorbis_pack_books", "_vorbis_pack_comment", "_v_writestring", "vorbis_version_string", "vorbis_granule_time", "tagcompare"]

@@ -1,0 +1,1 @@
+["get_level_str", "missing_feature_sample", "av_log_set_callback", "av_log_set_flags", "av_log_get_flags", "av_log_format_line", "av_log_get_level", "colored_fputs", "sanitize", "avpriv_request_sample", "av_log_format_line2", "format_line", "avpriv_report_missing_feature", "get_category", "check_color_terminal", "av_default_item_name", "av_default_get_category"]

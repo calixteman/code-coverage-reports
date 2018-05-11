@@ -1,0 +1,1 @@
+["?InitDebugFd@ReplaceMallocBridge@@UEAAXAEAUDebugFdRegistry@mozilla@@@Z", "??0ReplaceMallocBridge@@QEAA@XZ", "?RegisterHook@ReplaceMallocBridge@@UEAAPEBUmalloc_table_t@@PEBDPEBU2@PEBUmalloc_hook_table_t@@@Z", "?GetDMDFuncs@ReplaceMallocBridge@@UEAAPEAUDMDFuncs@dmd@mozilla@@XZ"]

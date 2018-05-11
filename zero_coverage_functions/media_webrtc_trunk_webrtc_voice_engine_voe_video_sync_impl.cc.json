@@ -1,0 +1,1 @@
+["?SetInitSequenceNumber@VoEVideoSyncImpl@webrtc@@UEAAHHF@Z", "?SetInitTimestamp@VoEVideoSyncImpl@webrtc@@UEAAHHI@Z", "?SetCurrentSyncOffset@VoEVideoSyncImpl@webrtc@@UEAAHHH@Z", "?GetLeastRequiredDelayMs@VoEVideoSyncImpl@webrtc@@UEBAHH@Z", "?SetMinimumPlayoutDelay@VoEVideoSyncImpl@webrtc@@UEAAHHH@Z", "?GetPlayoutBufferSize@VoEVideoSyncImpl@webrtc@@UEAAHAEAH@Z"]

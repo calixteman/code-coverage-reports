@@ -1,0 +1,1 @@
+["_MD_AttachSharedMemory", "_md_OpenAnonFileMap", "_MD_DetachSharedMemory", "_MD_DeleteSharedMemory", "_md_ExportFileMapAsString", "_md_ImportFileMapFromString", "_MD_CloseSharedMemory", "_MD_OpenSharedMemory"]

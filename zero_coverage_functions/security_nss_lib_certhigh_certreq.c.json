@@ -1,0 +1,1 @@
+["CERT_GetCertificateRequestExtensions", "CERT_FinishCertificateRequestAttributes", "CERT_StartCertificateRequestAttributes", "setCRExt", "NSS_Get_CERT_CertificateRequestTemplate"]

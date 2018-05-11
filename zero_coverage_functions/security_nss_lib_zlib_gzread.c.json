@@ -1,0 +1,1 @@
+["gz_load", "gzclose_r", "gzgets", "gz_decomp", "gzdirect", "gzread", "gz_avail", "gz_next4", "gz_skip", "gzungetc", "gz_head", "gz_make", "gzgetc"]

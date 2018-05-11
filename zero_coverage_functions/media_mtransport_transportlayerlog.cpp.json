@@ -1,0 +1,1 @@
+["?SendPacket@TransportLayerLogging@mozilla@@UEAAHPEBE_K@Z", "?getLogModule@mozilla@@YAPEAVLogModule@1@XZ", "?StateChange@TransportLayerLogging@mozilla@@QEAAXPEAVTransportLayer@2@W4State@32@@Z", "?PacketReceived@TransportLayerLogging@mozilla@@QEAAXPEAVTransportLayer@2@PEBE_K@Z", "?WasInserted@TransportLayerLogging@mozilla@@MEAAXXZ"]

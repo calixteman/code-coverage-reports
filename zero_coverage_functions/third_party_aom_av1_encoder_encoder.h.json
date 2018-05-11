@@ -1,0 +1,1 @@
+["is_altref_enabled", "enc_is_ref_frame_buf", "get_ref_frame_map_idx", "av1_resize_unscaled", "is_lossless_requested", "av1_frame_unscaled", "allocated_tokens", "get_token_alloc", "get_ref_frame_buffer", "frame_is_kf_gf_arf", "set_ref_ptrs", "get_chessboard_index", "get_ref_frame_buf_idx", "cond_cost_list"]

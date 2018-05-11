@@ -1,0 +1,1 @@
+["handle_insn_metadata", "ia32_table_lookup", "reg_32_to_16", "ia32_decode_insn", "ia32_handle_mnemtype", "ia32_handle_eflags", "ia32_handle_cpu", "ia32_stack_mod", "long_from_operand", "ia32_disasm_addr", "ia32_handle_prefix", "handle_insn_suffix", "ia32_handle_notes", "uses_modrm_flag"]

@@ -1,0 +1,1 @@
+["?NS_SetMainThread@@YAXPEAUPRThread@@@Z", "?GetSystemGroupEventTarget@nsThreadManager@@UEAA?AW4nsresult@@PEAPEAVnsIEventTarget@@@Z", "?NS_UnsetMainThread@@YAXXZ", "?CreateCurrentThread@nsThreadManager@@QEAAPEAVnsThread@@PEAVSynchronizedEventQueue@mozilla@@W4MainThreadFlag@2@@Z"]

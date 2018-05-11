@@ -1,0 +1,1 @@
+["?HasRtpPacket@RtpPacketHistory@webrtc@@QEBA_NG@Z", "?GetBestFittingPacket@RtpPacketHistory@webrtc@@QEBA?AV?$unique_ptr@VRtpPacketToSend@webrtc@@U?$default_delete@VRtpPacketToSend@webrtc@@@std@@@std@@_K@Z", "?FindBestFittingPacket@RtpPacketHistory@webrtc@@AEBAH_K@Z", "?Free@RtpPacketHistory@webrtc@@AEAAXXZ"]

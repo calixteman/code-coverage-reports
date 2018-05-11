@@ -1,0 +1,1 @@
+["emit_bits", "emit_restart", "start_pass_phuff", "finish_pass_phuff", "flush_bits", "emit_buffered_bits", "encode_mcu_AC_first", "encode_mcu_DC_refine", "jinit_phuff_encoder", "encode_mcu_AC_refine", "emit_symbol", "emit_eobrun", "finish_pass_gather_phuff", "dump_buffer", "encode_mcu_DC_first"]

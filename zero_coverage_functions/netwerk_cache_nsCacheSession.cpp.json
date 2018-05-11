@@ -1,0 +1,1 @@
+["?GetDoomEntriesIfExpired@nsCacheSession@@UEAA?AW4nsresult@@PEA_N@Z", "?OpenCacheEntry@nsCacheSession@@UEAA?AW4nsresult@@AEBV?$nsTSubstring@D@@H_NPEAPEAVnsICacheEntryDescriptor@@@Z", "?IsStorageEnabled@nsCacheSession@@UEAA?AW4nsresult@@PEA_N@Z", "?GetProfileDirectory@nsCacheSession@@UEAA?AW4nsresult@@PEAPEAVnsIFile@@@Z", "?GetIsPrivate@nsCacheSession@@UEAA?AW4nsresult@@PEA_N@Z"]

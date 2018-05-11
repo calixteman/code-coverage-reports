@@ -1,0 +1,1 @@
+["quantize_b_helper_c", "quantize_dc_helper", "aom_highbd_quantize_b_c", "aom_quantize_dc_32x32", "highbd_quantize_b_helper_c", "aom_quantize_b_c", "aom_highbd_quantize_b_32x32_c", "aom_quantize_dc", "aom_quantize_b_32x32_c"]

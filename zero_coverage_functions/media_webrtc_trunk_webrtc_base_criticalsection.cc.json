@@ -1,0 +1,1 @@
+["?Lock@GlobalLockPod@rtc@@QEAAXXZ", "??0GlobalLockScope@rtc@@QEAA@PEAVGlobalLockPod@1@@Z", "??1GlobalLockScope@rtc@@QEAA@XZ", "??0TryCritScope@rtc@@QEAA@PEBVCriticalSection@1@@Z", "?locked@TryCritScope@rtc@@QEBA_NXZ", "?Unlock@GlobalLockPod@rtc@@QEAAXXZ", "?TryEnter@CriticalSection@rtc@@QEBA_NXZ", "??0GlobalLock@rtc@@QEAA@XZ", "??1TryCritScope@rtc@@QEAA@XZ"]

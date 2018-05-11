@@ -1,0 +1,1 @@
+["createPerformanceEvent", "createImpressionStats", "createASRouterEvent", "_onEventsTelemetryPrefChange", "handleUndesiredEvent", "_onTelemetryPrefChange", "createUndesiredEvent", "get pingCentreForASRouter", "sendASRouterEvent", "handleImpressionStats", "handleASRouterUserEvent"]

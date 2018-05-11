@@ -1,0 +1,1 @@
+["getpqgfromfile", "CERTUTIL_DestroyParamsPQG", "CERTUTIL_FileForRNG", "decode_pqg_params", "UpdateRNG", "getPQGString", "getECParams", "CERTUTIL_GeneratePrivateKey", "pqg_prime_bits"]
